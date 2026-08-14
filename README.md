@@ -28,3 +28,13 @@ Below is the side-by-side comparison showing the original dermoscopic scan and t
 git clone [https://github.com/cyberpunk92/skin-lesion-gradcam-pytorch.git](https://github.com/cyberpunk92/skin-lesion-gradcam-pytorch.git)
 cd skin-lesion-gradcam-pytorch
 ```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run Inference & Generate Heatmap
+```bash
+python main.py
+```
