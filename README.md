@@ -24,7 +24,7 @@ Below is the side-by-side comparison showing the original dermoscopic scan and t
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
-
+```bash
 git clone [https://github.com/cyberpunk92/skin-lesion-gradcam-pytorch.git](https://github.com/cyberpunk92/skin-lesion-gradcam-pytorch.git)
 cd skin-lesion-gradcam-pytorch
-
+```
